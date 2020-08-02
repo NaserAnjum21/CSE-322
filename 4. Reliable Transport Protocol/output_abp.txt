@@ -1,0 +1,150 @@
+
+EVENT time: 93.569748,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 99.062195,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 101.561325,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 1607.715088,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 1609.116333,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 1614.552979,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 2322.031250,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 2325.527344,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 2328.412354,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 3332.804199,  type: 1, fromlayer5  entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 3337.380615,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 3341.256836,  type: 2, fromlayer3  entity: 0
+##  Wrong ack received
+
+EVENT time: 3352.804199,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 3358.365479,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 3372.804199,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 3378.751709,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 3380.949463,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 5057.893555,  type: 1, fromlayer5  entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 5058.931152,  type: 1, fromlayer5  entity: 0
+Warning: attempt to start a timer that is already started
+
+EVENT time: 5062.472656,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 5064.000000,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 5064.392578,  type: 2, fromlayer3  entity: 0
+##  Wrong ack received
+
+EVENT time: 5074.027344,  type: 2, fromlayer3  entity: 0
+## Corrupted packet received
+
+EVENT time: 5077.893555,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 5083.975098,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 5088.526855,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 6557.268066,  type: 1, fromlayer5  entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 6564.979980,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 6570.675781,  type: 2, fromlayer3  entity: 0
+##  Wrong ack received
+
+EVENT time: 6577.268066,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 6585.121582,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 6592.982422,  type: 2, fromlayer3  entity: 0
+##  Wrong ack received
+
+EVENT time: 6597.268066,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 6599.269043,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 6600.429688,  type: 2, fromlayer3  entity: 0
+##  Wrong ack received
+
+EVENT time: 6617.268066,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 6621.464355,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 6637.268066,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 6638.811523,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 6642.600586,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 6854.091309,  type: 1, fromlayer5  entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 6861.486328,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 6874.091309,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 6878.773926,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 6881.742676,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 8567.888672,  type: 1, fromlayer5  entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 8575.871094,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 8587.888672,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 8593.627930,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 8599.997070,  type: 2, fromlayer3  entity: 0
+## Corrupted packet received
+
+EVENT time: 8607.888672,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 8613.325195,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being corrupted
+
+EVENT time: 8614.351563,  type: 2, fromlayer3  entity: 0
+## Corrupted packet received
+
+EVENT time: 8627.888672,  type: 0, timerinterrupt   entity: 0
+          TOLAYER3: packet being corrupted
+
+EVENT time: 8636.395508,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 8637.738281,  type: 2, fromlayer3  entity: 0
+
+EVENT time: 9351.054688,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 9352.104492,  type: 2, fromlayer3  entity: 1
+          TOLAYER3: packet being lost
+
+EVENT time: 9371.054688,  type: 0, timerinterrupt   entity: 0
+
+EVENT time: 9375.139648,  type: 2, fromlayer3  entity: 1
+
+EVENT time: 9376.151367,  type: 2, fromlayer3  entity: 0
+ Simulator terminated at time 9376.151367
+ after sending 10 msgs from layer5
